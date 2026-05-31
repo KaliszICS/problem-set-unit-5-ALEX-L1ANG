@@ -1,0 +1,9 @@
+K(30%): 100
+I(30%): 93
+C(10%): 100
+A(30%): 96
+96.7% of 90 - 87.03%
+
+You should be checking for ALL punctuation. My example was just some of them.
+Use functions in the future to help break up your code more. It will increase readability and editability when looking for issues.
+Otherwise good work.
